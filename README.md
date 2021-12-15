@@ -12,5 +12,11 @@ This is a simple project that demonstrats the Two Factor Authentication in the M
 7. The response of the verification is the JWT token. 
 
 
+## To Run The Application. 
+```Shell
+  > gradlew run
+```
+ 
+  
 Happy Coding :)
 
