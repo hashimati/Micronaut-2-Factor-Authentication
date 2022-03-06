@@ -1,6 +1,6 @@
 # Micronaut-2-Factor-Authentication
 
-This is a simple project that demonstrats the Two Factor Authentication in the Micronaut. The security code is a customization from the **Security-JWT** generated code in **[MicroCli](https://github.com/hashimati/MicrostarterCli)** tool. 
+This is a simple project that demonstrats the Two Factor Authentication in the Micronaut. The security code is a customization from the **Security-JWT** generated code in **[MicrostarterCli](https://github.com/hashimati/MicrostarterCli)** tool. 
 
 ## Overview
 1. The application is a Micronaut application that stores the users-details and refresh-token in **H2** database. 
